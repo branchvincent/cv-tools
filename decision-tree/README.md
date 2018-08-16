@@ -9,4 +9,4 @@ The decision tree is trained by splitting a training set until the impurity is m
 The forest is a collection of decision trees trained using random subsets of the original training set.
 
 ## Example
-A simple classification example using 2D points is in the [docs](https://github.com/branchvincent/cv-tools/blob/master/decision-tree/doc).
+A simple 2D classification example is in the [docs](https://github.com/branchvincent/cv-tools/blob/master/decision-tree/doc).

@@ -1,4 +1,4 @@
-# Optimizer: Steepest Descent
+# Optimizer
 
 This contains the [steepest descent](https://en.wikipedia.org/wiki/Gradient_descent) optimization algorithm with line search.
 

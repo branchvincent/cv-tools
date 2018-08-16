@@ -3,4 +3,4 @@
 This contains [principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis) to compress images.
 
 ## Example
-A simple example using the handwritten letters is in the [docs](https://github.com/branchvincent/cv-tools/blob/master/pca/doc).
+A simple example using handwritten letters is in the [docs](https://github.com/branchvincent/cv-tools/blob/master/pca/doc).
